@@ -1,3 +1,3 @@
 # KDAC
 This is the implementation of KDAC. 
-Comming soon.!!!
+The code will be coming soon!!!!
